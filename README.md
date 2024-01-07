@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ShivuJ
-- 👀 I’m interested in Coding and cyber security
+- 👀 I’m interested in Coding
 - 🌱 I’m currently learning Full stack Java with Python
 
 <!---
